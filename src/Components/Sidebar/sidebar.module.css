@@ -1,0 +1,14 @@
+.sidebar {
+    width: 25%;
+}
+
+.list li {
+    padding: 5px 10px;
+    list-style-type: none;
+    font-size: 22px;
+}
+
+.list a {
+    text-decoration: none;
+    color: black;
+}
